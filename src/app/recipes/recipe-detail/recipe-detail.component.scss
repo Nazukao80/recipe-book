@@ -1,0 +1,5 @@
+.row{
+    & > .col-xs-12 > img.img-responsive{
+        max-height: 300px;
+    }
+}
